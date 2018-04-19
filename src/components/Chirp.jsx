@@ -38,9 +38,3 @@ const Chirp = (props) => {
 export default Chirp;
 
 
-/*
-
-<div  className='d-flex justify-content-center'>
-<p className='text-center mt-5 bg-info w-50'>{props.msg}</p>
-</div>) */
-
